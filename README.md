@@ -1,11 +1,14 @@
-# Beackend for Vehicles
+# Vehicles APP
+![image](https://user-images.githubusercontent.com/3716432/129392881-71add324-5a9e-4f15-8b7a-666878ea398f.png)
+Thi repo contains both the backend and frotend apps for Searching vehicles.
 
-### Install Backend
+### Install and startt Backend
 
 ```bash
 $ cd backend/
 $ rake db:setup
 $ rake db:seed
+$ rails s
 ```
 ### Install Frontend
 
