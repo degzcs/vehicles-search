@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 018f69b582b7902f38bfe659e61142435e039b08 Diego Gomez <diego.f.gomez.pardo@gmail.com> 1628769652 -0500	commit (initial): Initialize project using Create React App
+018f69b582b7902f38bfe659e61142435e039b08 896b71d8b41293a93a9930ca3a5cca20cb8b9a77 Diego Gomez <diego.f.gomez.pardo@gmail.com> 1628773874 -0500	commit: create basic form and table for searching vehicles
+896b71d8b41293a93a9930ca3a5cca20cb8b9a77 f618e44ce88c6c2e948c32269763cc455137b466 Diego Gomez <diego.f.gomez.pardo@gmail.com> 1628792163 -0500	commit: add components for searching vehicles
+f618e44ce88c6c2e948c32269763cc455137b466 f618e44ce88c6c2e948c32269763cc455137b466 Diego Gomez <diego.f.gomez.pardo@gmail.com> 1628793821 -0500	reset: moving to HEAD
+f618e44ce88c6c2e948c32269763cc455137b466 9986cc0de9385fc7bf6bf61a1c9e162daaa0990c Diego Gomez <diego.f.gomez.pardo@gmail.com> 1628797275 -0500	commit: add toast
